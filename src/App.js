@@ -8,7 +8,7 @@ import Footer from './includes/Footer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/spondias'>
       <div>
         <Navbar />
         <Routes>
