@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spondias/static/css/main.525def82.css",
-    "main.js": "/spondias/static/js/main.9cf4fbae.js",
+    "main.js": "/spondias/static/js/main.0bff9ac5.js",
     "static/js/787.92c1df66.chunk.js": "/spondias/static/js/787.92c1df66.chunk.js",
     "static/media/service4.jpg": "/spondias/static/media/service4.1ec5018c7dd221128629.jpg",
     "static/media/img1.jpg": "/spondias/static/media/img1.e679d02c860011890f79.jpg",
@@ -12,11 +12,11 @@
     "static/media/service5.jpg": "/spondias/static/media/service5.54ddebe98c88c934ed51.jpg",
     "index.html": "/spondias/index.html",
     "main.525def82.css.map": "/spondias/static/css/main.525def82.css.map",
-    "main.9cf4fbae.js.map": "/spondias/static/js/main.9cf4fbae.js.map",
+    "main.0bff9ac5.js.map": "/spondias/static/js/main.0bff9ac5.js.map",
     "787.92c1df66.chunk.js.map": "/spondias/static/js/787.92c1df66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.525def82.css",
-    "static/js/main.9cf4fbae.js"
+    "static/js/main.0bff9ac5.js"
   ]
 }
